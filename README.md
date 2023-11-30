@@ -8,11 +8,8 @@ pause, and next.I also gained experience working with version control tools such
 
 # Tech-Stack 
 
-  <div>
- <span><h3 style="color:red;">HTML</h3></span> 
- <span><h3>CSS</h3></span> 
- <span><h3>JavaScript</h3></span>
- </div>
+   ![symbol](https://github.com/Shriprakash12/Spotify-CLone/assets/117774163/51194f88-a044-4c93-8b3d-69ca3a2f1219)
+
  
 # Features 
 
